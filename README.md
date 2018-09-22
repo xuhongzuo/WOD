@@ -2,7 +2,7 @@ It is an outlier detection / anomaly detection method for categorical data.
 
 
 WOD is published in DEXA2018.
-The conference paper of WOD is avaliable at https://sites.google.com/site/hongzuoxu/home. 
+The conference paper of WOD is avaliable at on the researchGate https://www.researchgate.net/profile/Hongzuo_Xu. 
 
 
 Please cite our paper if you use it.
